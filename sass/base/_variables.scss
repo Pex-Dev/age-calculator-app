@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('../assets/fonts/Poppins-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Poppins-Bold';
+    src: url('../assets/fonts/Poppins-ExtraBoldItalic.ttf') format('truetype');
+}
+
+//COLORES
+$colorFondo: #f0f0f0;
+$colorPrincipal: #ffffff;
+$colorSecundario: #814bfe;
+$colorPlaceholder: #898989;
+$colorBorde: #eeeeee;
+$fuentePrincipal: "Poppins", sans-serif;
+$fuenteBold: 'Poppins-Bold', sans-serif;

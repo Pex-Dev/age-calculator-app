@@ -1,0 +1,10 @@
+@mixin telefono{
+    @media (max-width: 768px){
+        @content;
+    }
+}
+@mixin telefonoChico{
+    @media (max-width: 320px){
+        @content;
+    }
+}
